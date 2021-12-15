@@ -5,7 +5,7 @@ Purpose: Learning Rust for Solana Development
 
 ## To install Rust
 
-Follow the installation instructions here []()
+Follow the installation instructions here [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 
 ## Build instructions
 
